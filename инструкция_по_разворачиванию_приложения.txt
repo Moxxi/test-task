@@ -1,0 +1,7 @@
+скачать репозиторий - https://github.com/Moxxi/test-task.git
+прописать в консоль: 
+-pip install django django-rest-framework
+-manage.py makemigrations
+-manage.py migrate
+-manage.py createsuperuser --username=admin --email=admin@example.com
+-manage.py runserver
